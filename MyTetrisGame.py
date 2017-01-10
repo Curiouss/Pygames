@@ -41,7 +41,6 @@ class Const1(object):
             self.SPosition = [[56,28],[70,14],[70,28],[84,14]]
         elif typeNum==7:
             self.SPosition = [[56,14],[70,14],[42,14],[56,28]]
-        #self.SPosition=sorted(self.SPosition)
         self.typeNum=typeNum
         self.form=0
         print self.typeNum
